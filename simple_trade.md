@@ -5,7 +5,7 @@ layout: home
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
-<img src="https://avatars.githubusercontent.com/u/896475?v=4" width="32" height="32" alt="pmarsceill">
+<img src="Icon_New.png" width="32" height="32" alt="pmarsceill">
 
 ----
 
