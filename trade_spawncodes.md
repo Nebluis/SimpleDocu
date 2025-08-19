@@ -7,7 +7,7 @@ parent: Simple Trade
 ## Trade Tables
 
 **Wood Trade Table**
-```yaml
+```
 cheat gfi TradeTable 1 0 0
 EngramEntry_TradeTable_C
 ```
@@ -52,7 +52,8 @@ EngramEntry_Tippjar_C
 ## Currency
 
 **Simple Gold Coin**
-```yamlcheat gfi SimpleCoin 1 0 0
+```yaml
+cheat gfi SimpleCoin 1 0 0
 EngramEntry_SimpleCoin_C
 ```
 **Simple Copper Coin**
