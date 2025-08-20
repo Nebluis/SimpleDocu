@@ -1,6 +1,7 @@
 ---
 title: Having Issues?
 layout: home
+nav_order: 99
 ---
 
 The Simple_Mods are not perfect by any means.
